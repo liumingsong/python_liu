@@ -1,0 +1,8 @@
+创建文件 touch
+查看历史命令 history
+查看文件内容 cat
+编辑文件 gedit
+创建文件 touch
+查看历史命令 history
+查看文件内容 cat
+编辑文件 gedit
