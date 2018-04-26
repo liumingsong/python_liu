@@ -1,0 +1,10 @@
+a = ['挪威','法国','青海','拉萨','地球']
+print(a)
+a.reverse()
+print(a)
+a.reverse()
+print(a)
+a.sort()
+print(a)
+a.sort(reverse=True)
+print(a)

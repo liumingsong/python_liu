@@ -1,0 +1,7 @@
+1day 
+application   应用程序 应用
+application  framework   应用程序框架  应用框架
+architecture  架构   系统架构   体系架构
+argument    引数 实质参数  parameters 
+array  陈列  数组       
+2day

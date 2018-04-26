@@ -1,0 +1,8 @@
+le i <=9:
+  3     j = 1
+  4     while j <= i:
+  5         print("%d*%d=%d\t"%(j,i,j*i),end = "")
+  6         j+=1
+  7     print("")
+  8     i+=1
+

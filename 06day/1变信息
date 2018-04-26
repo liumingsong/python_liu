@@ -1,0 +1,6 @@
+name = input("请输入姓名:")
+name = "刘明松"
+print(name)
+age = input("请输入年龄:")
+age = 24
+print(age)
